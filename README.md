@@ -8,13 +8,12 @@ Técnico en Sistemas con gran experiencia en Gestión Administrativa y Comercial
 🚀 Interesado en contribuir como Analista de Datos y liderar la implementación de nuevas tecnologías en el sector agrícola y energético, con el fin de desarrollar soluciones innovadoras y sostenibles🌱, generando un impacto positivo en la calidad de vida de la sociedad.</div>  
   
 
-##🛠️ Habilidades
+🛠️ Habilidades
 
-
-Lenguajes de programación: Python
-Bases de datos: MS SQL Server
-Herramientas de visualización: PowerBI
-Sistemas operativos: Windows, Linux, Android
+>> Lenguajes de programación: Python
+>> Bases de datos: MS SQL Server
+>> Herramientas de visualización: PowerBI
+>> Sistemas operativos: Windows, Linux, Android
 
 
 
