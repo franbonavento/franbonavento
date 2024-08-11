@@ -1,12 +1,20 @@
 ### <div align="center">Hola! Me llamo Franco Bonavento
-👨‍💻 Soy Analista de Datos. 
+👨‍💻🎓Soy Analista de Datos. 
 
-Curioso, Autodidacta y Analista innato. Con una fuerte vocación de servicio y pasión por la intersección entre la tecnología y la naturaleza.
+Curioso, Autodidacta📚 y Analista innato. Con una fuerte vocación de servicio y pasión por la intersección entre la tecnología y la naturaleza.
 
 Técnico en Sistemas con gran experiencia en Gestión Administrativa y Comercial en el sector Energético. Sólida base de conocimientos en Ciencias de la Naturaleza. 
 
-Interesado en contribuir como Analista de Datos y liderar la implementación de nuevas tecnologías en el sector agrícola y energético, con el fin de desarrollar soluciones innovadoras y sostenibles, generando un impacto positivo en la calidad de vida de la sociedad.</div>  
+🚀 Interesado en contribuir como Analista de Datos y liderar la implementación de nuevas tecnologías en el sector agrícola y energético, con el fin de desarrollar soluciones innovadoras y sostenibles🌱, generando un impacto positivo en la calidad de vida de la sociedad.</div>  
   
+
+##🛠️ Habilidades
+Lenguajes de programación: Python
+Bases de datos: MS SQL Server
+Herramientas de visualización: PowerBI
+Sistemas operativos: Windows, Linux, Android
+
+
 
 <br/>  
 
