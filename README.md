@@ -10,10 +10,7 @@ Técnico en Sistemas con gran experiencia en Gestión Administrativa y Comercial
 
 🛠️ Habilidades
 
->> Lenguajes de programación: Python
->> Bases de datos: MS SQL Server
->> Herramientas de visualización: PowerBI
->> Sistemas operativos: Windows, Linux, Android
+>> Python | MS SQL Server | PowerBI | Windows, Linux, Android
 
 
 
