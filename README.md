@@ -1,4 +1,4 @@
-### <div align="center">Hola! Me llamo Franco Bonavento
+### <div align="center"> 🖐️Hola! Me llamo Franco Bonavento
 
 Desde chico me intrigó saber como funcionan las cosas y como se pueden mejorar.
 Me considero una persona curiosa, autodidacta y muy analista. 
