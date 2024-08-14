@@ -1,12 +1,21 @@
 ### <div align="center">Hola! Me llamo Franco Bonavento
-👨‍💻🎓Soy Analista de Datos. 
 
-Curioso, Autodidacta📚 y Analista innato. Con una fuerte vocación de servicio y pasión por la intersección entre la tecnología y la naturaleza.
+Desde chico me intrigó saber como funcionan las cosas y como se pueden mejorar.
+Me considero una persona curiosa, autodidacta y muy analista. 
+Con fuerte vocación de servicio y pasión por la intersección entre los datos, la tecnología y la naturaleza.
 
-Técnico en Sistemas con gran experiencia en Gestión Administrativa y Comercial en el sector Energético. Sólida base de conocimientos en Ciencias de la Naturaleza. 
+A lo largo de mi vida, he trabajando como técnico en sistemas. Adquirido durante mas de 8 años, experiencia en gestión administrativa y comercial en el sector Energético, aportado mi granito de arena a la comunidad con varios proyectos, aprendido mucho sobre ciencias de la naturaleza. Dictando clases y transmitiendo mi conocimiento, que tanto disfruto.
 
-🚀 Interesado en contribuir como Analista de Datos y liderar la implementación de nuevas tecnologías en el sector agrícola y energético, con el fin de desarrollar soluciones innovadoras y sostenibles🌱, generando un impacto positivo en la calidad de vida de la sociedad.</div>  
-  
+🚀Interesado siempre en formar parte de nuevos desafios, aportar valor y crecer tanto a nivel personal como profesional. 
+
+Actualmente, estoy enfocado en seguir desarrollandome como 🧑‍💻Analista de Datos y contribuir en la toma de decisiones y liderar la implementación de nuevas tecnologías en el sector agrícola y energético, con el fin de lograr soluciones innovadoras y sostenibles.♻️
+Creo que estas áreas, en las que con mucho compromiso he estado siempre involucrado, son fundamentales para generar un impacto positivo en la calidad de vida de la sociedad.👥
+
+Si deseas saber más de mi, puedes contactarme y con gusto coordinaremos un encuentro!🙂
+
+📧 franbonavento@gmail.com
+
+..................................  
 
 🛠️ Habilidades
 
