@@ -4,8 +4,6 @@ Desde chico me intrigó saber como funcionan las cosas y como se pueden mejorar.
 Me considero una persona curiosa, autodidacta y muy analista. 
 Con fuerte vocación de servicio y pasión por la intersección entre los datos, la tecnología y la naturaleza.
 
-A lo largo de mi vida, he trabajando como técnico en sistemas. Adquirido durante mas de 8 años, experiencia en gestión administrativa y comercial en el sector Energético, aportado mi granito de arena a la comunidad con varios proyectos, aprendido mucho sobre ciencias de la naturaleza. Dictando clases y transmitiendo mi conocimiento, que tanto disfruto.
-
 🚀Interesado siempre en formar parte de nuevos desafios, aportar valor y crecer tanto a nivel personal como profesional. 
 
 Actualmente, estoy enfocado en seguir desarrollandome como 🧑‍💻Analista de Datos y contribuir en la toma de decisiones y liderar la implementación de nuevas tecnologías en el sector agrícola y energético, con el fin de lograr soluciones innovadoras y sostenibles.♻️
