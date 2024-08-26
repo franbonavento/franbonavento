@@ -6,7 +6,7 @@ Con fuerte vocación de servicio y pasión por la intersección entre los datos,
 
 🚀Interesado siempre en formar parte de nuevos desafios, aportar valor y crecer tanto a nivel personal como profesional. 
 
-Actualmente, estoy enfocado en seguir desarrollandome como 🧑‍💻Analista de Datos y contribuir en la toma de decisiones y liderar la implementación de nuevas tecnologías en el sector agrícola y energético, con el fin de lograr soluciones innovadoras y sostenibles.♻️
+Actualmente, estoy enfocado en crecer como 🧑‍💻Analista de Datos y contribuir en la toma de decisiones y liderar la implementación de nuevas tecnologías en el sector agrícola y energético, con el fin de lograr soluciones innovadoras y sostenibles.♻️
 Creo que estas áreas, en las que con mucho compromiso he estado siempre involucrado, son fundamentales para generar un impacto positivo en la calidad de vida de la sociedad.👥
 
 Si deseas saber más de mi, puedes contactarme y con gusto coordinaremos un encuentro!🙂
