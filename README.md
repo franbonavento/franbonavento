@@ -1,16 +1,13 @@
 ### <div align="center"> 🖐️Hola! Me llamo Franco Bonavento
 
 Desde chico me intrigó saber como funcionan las cosas y como se pueden mejorar.
-Me considero una persona curiosa, autodidacta y muy analista. 
-Con fuerte vocación de servicio y pasión por la intersección entre los datos, la tecnología y la naturaleza.
+Me considero una persona curiosa, autodidacta y analista, con vocación de servicio.
 
-Técnico en sistemas con gran experiencia en gestión administrativa, comercial y operativa en el sector energético. He aprendido mucho sobre ciencias de la naturaleza y permanecido muy vinculado con el agro.
+🚀Me apasiona ir por desafíos nuevos para crecer profesional y personalmente. Ademas me gusta ver cómo los datos, la energía, tecnología, el ambiente y el diseño se interrelacionan.
 
-🚀Dictando clases e interesado siempre en formar parte de nuevos desafíos y crecer tanto a nivel personal como profesional. 
+Soy técnico en sistemas con gran experiencia en gestión administrativa, comercial y operativa en el sector energético. He aprendido mucho sobre ciencias de la naturaleza y permanezco siempre vinculado con el agro.
 
-Actualmente, estoy enfocado en crecer como 🧑‍💻Data y Cyber Analyst y contribuir en la toma de decisiones y liderar la implementación de nuevas tecnologías, con el fin de lograr soluciones innovadoras y sostenibles.♻️
-
-Generar un impacto positivo en la calidad de vida de la sociedad.👥
+Actualmente, estoy enfocado en crecer como 🧑‍💻Data y Cyber Analyst y contribuir en la toma de decisiones y liderar la implementación de nuevas tecnologías, con el fin de lograr soluciones innovadoras y sostenibles,♻️ para generar un impacto positivo en la calidad de vida de la sociedad.👥
 
 Si deseas saber más de mi, puedes contactarme y con gusto coordinaremos un encuentro!🙂
 
