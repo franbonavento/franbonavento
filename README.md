@@ -1,16 +1,10 @@
 ### <div align="center"> 🖐️Hola! Me llamo Franco Bonavento
 
-Desde chico me intrigó saber como funcionan las cosas y como se pueden mejorar.
-Me considero una persona curiosa, autodidacta y analista, con vocación de servicio.
+Desde chico, siempre me ha intrigado entender cómo funcionan las cosas y encontrar maneras de mejorarlas. Esta curiosidad me llevó a formarme como técnico en sistemas y, más adelante, a especializarme en análisis de datos. He adquirido experiencia en reparación y mantenimiento de sistemas, actualización de hardware, configuración de redes, backup, instalación y configuración de distros Linux y versiones Windows, soporte a smartphones, análisis de riesgos de seguridad, instalación de sistemas Iot y electricidad.
 
-🚀Me apasiona ir por desafíos nuevos para crecer profesional y personalmente. Ademas me gusta ver cómo los datos, la energía, tecnología, el ambiente y el diseño se interrelacionan.
+En mi rol actual como analista de datos, he desarrollado habilidades en Sheets, SQL, Python, Power BI y metodologías ágiles como SCRUM, lo que me permite transformar datos en información valiosa para la toma de decisiones estratégicas. Disfruto enseñar mis conocimientos y enfrentar nuevos desafíos para seguir aprendiendo y aportar valor en cada proyecto que emprendo.
 
-Soy técnico en sistemas con gran experiencia en gestión administrativa, comercial y operativa en el sector energético. He aprendido mucho sobre ciencias de la naturaleza y permanezco siempre vinculado con el agro.
-
-Actualmente, estoy enfocado en crecer como 🧑‍💻Data y Cyber Analyst y contribuir en la toma de decisiones y liderar la implementación de nuevas tecnologías, con el fin de lograr soluciones innovadoras y sostenibles,♻️ para generar un impacto positivo en la calidad de vida de la sociedad.👥
-
-Si deseas saber más de mi, puedes contactarme y con gusto coordinaremos un encuentro!🙂
-
+Si deseas saber más de mi, puedes contactarme y con gusto coordinaremos un encuentro!
 📧 franbonavento@gmail.com
 
 ..................................  
