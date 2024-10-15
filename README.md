@@ -10,8 +10,8 @@ Actualmente, como analista de datos, he desarrollado habilidades en Sheets, SQL,
 
 Disfruto enseñar mis conocimientos y enfrentar nuevos desafíos para seguir creciendo y aportar valor en cada proyecto.
 
-Podés escribirme a franbonavento@gmail.com si necesitás saber mas de mi!
-📧 franbonavento@gmail.com
+Podés escribirme a 📧 franbonavento@gmail.com si necesitás saber mas de mi!
+
 
 ..................................  
 
