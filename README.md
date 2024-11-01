@@ -4,7 +4,7 @@ Desde chico, siempre me ha interesado la ciencia y la tecnología. Entender cóm
 
 Como técnico en sistemas, he adquirido experiencia en reparación y mantenimiento de sistemas, actualización de hardware, configuración de redes, backup, instalación y configuración de distros Linux y versiones Windows, soporte a smartphones, soporte remoto, análisis de riesgos de seguridad, instalación de sistemas IoT y electricidad.
 
-Tuve la oportunidad de trabajar en EDEN SA por más de 8 años donde desarrollé habilidades administrativas y comerciales, incluyendo SAP, atención al usuario, gestión de expedientes, proveedores, análisis de datos e informes, gestión del tiempo, así como mantenimiento de líneas de baja y media tensión y gestión de medidores inteligentes, entre otras.
+Trabajé en EDEN SA por más de 8 años donde desarrollé habilidades administrativas y comerciales, incluyendo SAP, atención al usuario, gestión de expedientes, proveedores, análisis de datos e informes, gestión del tiempo, así como mantenimiento de líneas de baja y media tensión y gestión de medidores inteligentes, entre otras.
 
 Actualmente, como analista de datos, he desarrollado habilidades en Sheets, SQL, Python, Power BI y metodologías ágiles como SCRUM, logrando transformar datos en información valiosa para la toma de decisiones estratégicas. Además, mi interés por la ciberseguridad me ha permitido comprender mejor los riesgos asociados al manejo de los datos, de cara a proteger la información de las personas y las organizaciones.
 
