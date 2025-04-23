@@ -2,7 +2,7 @@
 
 Desde chico, siempre me ha interesado la ciencia y la tecnología. Entender cómo funcionan las cosas y encontrar maneras de solucionarlas y mejorarlas. Esta curiosidad me ha permitido transitar por varios caminos.
 
-Como técnico en sistemas, por mas de 10 años he adquirido experiencia en reparación y mantenimiento de sistemas, actualización de hardware, configuración de redes, backup, instalación y configuración de distros Linux y versiones Windows, soporte a smartphones, soporte remoto, análisis de riesgos de seguridad, instalación de sistemas IoT y electricidad.
+Como técnico en sistemas, por más de 10 años he adquirido experiencia en reparación y mantenimiento de sistemas, actualización de hardware, configuración de redes, backup, instalación y configuración de distros Linux y versiones Windows, soporte a smartphones, soporte remoto, análisis de riesgos de seguridad, instalación de sistemas IoT y electricidad.
 
 Trabajé en una empresa privada del rubro energético por más de 8 años donde desarrollé habilidades administrativas y comerciales, incluyendo SAP, atención al usuario, gestión de expedientes, proveedores, análisis de datos e informes, así como el rol operativo de mantenimiento de líneas de baja y media tensión y gestión de medidores inteligentes, entre otras. Permitiendome desarrollar habilidades de organización, gestión del tiempo, manejo de herrmientas de productividad , comunicación multicanal y escucha activa.
 
