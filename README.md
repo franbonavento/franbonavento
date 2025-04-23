@@ -2,13 +2,13 @@
 
 Desde chico, siempre me ha interesado la ciencia y la tecnología. Entender cómo funcionan las cosas y encontrar maneras de solucionarlas y mejorarlas. Esta curiosidad me ha permitido transitar por varios caminos.
 
-Como técnico en sistemas, he adquirido experiencia en reparación y mantenimiento de sistemas, actualización de hardware, configuración de redes, backup, instalación y configuración de distros Linux y versiones Windows, soporte a smartphones, soporte remoto, análisis de riesgos de seguridad, instalación de sistemas IoT y electricidad.
+Como técnico en sistemas, por mas de 10 años he adquirido experiencia en reparación y mantenimiento de sistemas, actualización de hardware, configuración de redes, backup, instalación y configuración de distros Linux y versiones Windows, soporte a smartphones, soporte remoto, análisis de riesgos de seguridad, instalación de sistemas IoT y electricidad.
 
-Trabajé en EDEN SA por más de 8 años donde desarrollé habilidades administrativas y comerciales, incluyendo SAP, atención al usuario, gestión de expedientes, proveedores, análisis de datos e informes, gestión del tiempo, así como mantenimiento de líneas de baja y media tensión y gestión de medidores inteligentes, entre otras.
+Trabajé en una empresa privada del rubro energético por más de 8 años donde desarrollé habilidades administrativas y comerciales, incluyendo SAP, atención al usuario, gestión de expedientes, proveedores, análisis de datos e informes, así como el rol operativo de mantenimiento de líneas de baja y media tensión y gestión de medidores inteligentes, entre otras. Permitiendome desarrollar habilidades de organización, gestión del tiempo, manejo de herrmientas de productividad , comunicación multicanal y escucha activa.
 
 Actualmente, como analista de datos, he desarrollado habilidades en Sheets, SQL, Python, Power BI y metodologías ágiles como SCRUM, logrando transformar datos en información valiosa para la toma de decisiones estratégicas. Además, mi interés por la ciberseguridad me ha permitido comprender mejor los riesgos asociados al manejo de los datos, de cara a proteger la información de las personas y las organizaciones.
 
-Disfruto enseñar mis conocimientos y enfrentar nuevos desafíos para seguir creciendo y aportar valor en cada proyecto.
+Enfocado en la mejora continua y el aprendizaje constante, disfruto enseñar mis conocimientos y enfrentar nuevos desafíos para seguir creciendo y aportar valor en cada proyecto.
 
 Podés escribirme a 📧 franbonavento@gmail.com si necesitás saber mas de mi!
 
