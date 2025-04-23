@@ -1,4 +1,4 @@
-### <div align="center"> 🖐️Hola! Me llamo Franco Bonavento
+### <div align="center"> 🖐️Hola! Soy Fran...
 
 Desde chico, siempre me ha interesado la ciencia y la tecnología. Entender cómo funcionan las cosas y encontrar maneras de solucionarlas y mejorarlas. Esta curiosidad me ha permitido transitar por varios caminos.
 
