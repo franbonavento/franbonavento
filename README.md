@@ -48,7 +48,7 @@ En mis repositorios vas a encontrar proyectos orientados al análisis de datos, 
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco_Bonavento-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fran-bonavento-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco_Bonavento-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/franbonavento)
 [![Email](https://img.shields.io/badge/Email-franbonavento%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:franbonavento@gmail.com)
 
 ---
