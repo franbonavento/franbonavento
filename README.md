@@ -32,20 +32,38 @@ Me interesa especialmente aplicar datos y tecnología para **entender procesos, 
 
 `SQL Server` · `BigQuery` · `SAP S/4HANA` · `ERP`
 
-**Automatización & Desarrollo**
+**Automation & Integration**
 
-`Git` · `GitHub` · `VS Code` · `Make` · `Power Automate` · `APIs`
+`Make` · `Power Automate` · `Apps Script` · `APIs`
+
+**AI-assisted Development**
+
+`GitHub Copilot` · `ChatGPT` · `Claude` · `Gemini` · `MCP`
+
+**Development Tools**
+
+`Git` · `GitHub` · `VS Code`
 
 ---
 
-### 🚀 Proyectos
+### 🚀 Featured Projects
 
-En mis repositorios vas a encontrar proyectos orientados al análisis de datos, Business Intelligence y resolución de problemas de negocio mediante SQL, Python y Power BI.
+#### [HR Payslip Distribution Automation](https://github.com/franbonavento/hr-payslip-automation)
+Automatización de un flujo **en producción** para una PyME multisucursal: distribución mensual de recibos de sueldo, validación determinística, respaldo y trazabilidad.
 
-> Próximamente voy a ir incorporando y documentando nuevos proyectos.
+`Make` · `Google Sheets` · `Google Drive` · `IMAP/SMTP`
+
+#### [FAOSTAT — Producción mundial de alimentos](https://github.com/franbonavento/produccion-mundial-de-alimentos)
+Análisis y procesamiento con Python/Pandas de un dataset de **más de 4,2 millones de registros**, incluyendo limpieza, exploración, agregación y visualización.
+
+`Python` · `Pandas` · `Jupyter` · `Matplotlib`
+
+#### [Partnership Finder](https://github.com/Pesevas/PartnershipFinder) · *Collaborative Project*
+Proyecto grupal de Data Analytics para apoyar decisiones de patrocinio en la NBA. Mi contribución se enfocó en la **integración de datos**, desarrollando una ingesta incremental Python → SQL Server con validación y logging, configurando el acceso remoto multiusuario a la base mediante **ZeroTier** y colaborando en las visualizaciones de Power BI.
+
+`Python` · `Pandas` · `PyODBC` · `SQL Server` · `Power BI` · `ZeroTier`
 
 ---
-
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Franco_Bonavento-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francobonavento/)
